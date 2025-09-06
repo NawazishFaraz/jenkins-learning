@@ -1,8 +1,8 @@
 {
-  "name": "jenkins-demo",
+  "name": "jenkins-learning",
   "version": "1.0.0",
   "scripts": {
-    "start": "node app.js",
-    "test": "echo "Running tests..." && exit 0"
+    "test": "echo \"Running tests...\" && exit 0"
   }
 }
+
